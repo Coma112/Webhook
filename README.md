@@ -1,8 +1,11 @@
 # Webhook
-A Discord Webhook integration which is lightweight and easy to use without any API or JDA!
+Egy Discord Webhook integráció ami nem növeli a projekted súlyát, tömegét. Semmilyen API vagy JDA nem kell hozzá.
 
-The correct usage ->
+Használati útmutató -> 
 
-1: There is a Webhook.java file at the repo. You need to copy it and paste it to your files as you can see in picture.
-You're almost done
-2: You can use it like on the picture!.
+1 -> A reponál találsz egy Webhook.java fájlt, ez tartalmazza magát a kódot. Ezt másold ki és a projektednél hozz létre egy mappát ilyen névvel: hook(s). Ebbe másold be magát a Webhook.java-t!
+
+2 -> Használd ahogyan csak szeretnéd. További segítségek a képeknél vannak!
+
+
+

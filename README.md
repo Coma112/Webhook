@@ -7,5 +7,6 @@ Használati útmutató ->
 
 2 -> Használd ahogyan csak szeretnéd. További segítségek a képeknél vannak!
 
+![image](https://user-images.githubusercontent.com/103312234/210023896-e6063d96-be3c-4828-89f3-3a4fda5d5f56.png)
 
 

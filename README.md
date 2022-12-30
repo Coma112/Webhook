@@ -25,3 +25,5 @@ Példának:
 
 Minden ami a webhooknak kell!
 
+CSAK EMBEDDEL MŰKÖDIK! KÉSŐBBIEKBEN JÖNNI FOG SIMA MESSAGE
+

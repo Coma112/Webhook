@@ -21,6 +21,7 @@ Példának:
 - setFooter
 - setUrl
 - setThumbnail
+- setTitle
 
 Minden ami a webhooknak kell!
 
